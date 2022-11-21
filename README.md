@@ -1,17 +1,42 @@
-### Chào 👋, tớ là [h3nsy](https://github.com/h3nesy)
+# Hi 👋, I'm Vu Manh Hung
+### A Freelancer developer from VietNam
 
-**Giới thiệu về bản thân:**
+![view counter](https://komarev.com/ghpvc/?username=h3nesy&label=Profile%20views&color=0e75b6&style=flat-square)
 
- - Tên thật của mình là: **Vũ Mạnh Hùng**
+- 🔭 I’m currently working on **something awsome 🥰**
 
-**Liên hệ:**
- 
- - ⭐⭐ Facebook: [Vũ Mạnh Hùng](https://www.facebook.com/hung.babe1/)
- - ⭐⭐ Youtube Channel: 404 Service
- - ⭐⭐ Email: [hungdayne22@gmail.com](mailto:hungdayne22@gmail.com)
- - ⭐⭐ Github: [h3nsy](https://github.com/h3nesy)
+- 🌱 I’m currently learning **NodeJS 😎**
 
-**Github Stats**
+- 💬 Ask me about **anything 🤣**
 
-![](https://raw.githubusercontent.com/h3nesy/stats/master/generated/overview.svg)![](https://raw.githubusercontent.com/h3nesy/stats/master/generated/languages.svg)
-![](https://github-readme-stats.vercel.app/api?username=h3nesy&include_all_commits=true&count_private=true&show_icons=true)![](http://github-readme-streak-stats.herokuapp.com?user=h3nesy) 
+- 📫 How to reach me **hennessy@onionmail.org**
+
+
+## Connect with me 👀
+<!--<p align="left">
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hoanghien0410" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hoang-tran-69731113a" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11898496" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="99.hoangtran" height="30" width="40" /></a>
+</p>-->
+
+<a href="https://fb.com/hung.babe1" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
+
+
+## Languages and Tools 🛠
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+## GitHub Stats 📈
+
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h3nesy" alt="h3nesy" /></a> </p>-->
+
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=h3nesy&count_private=true&show_icons=true&include_all_commits=true&theme=react)
+  
+![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=h3nesy&theme=react)
+
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=h3nesy&count_private=true&show_icons=true&locale=en&layout=compact&theme=react)
+  
+![h3nesy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=h3nesy&layuout=compact&theme=react)
+
+<a href="https://www.paypal.me/quangminh06"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="paypal"/>
+</a>
+[![wakatime](https://wakatime.com/badge/user/9f4900c0-ca57-44b5-a4dc-6545ae68a5c9.svg)](https://wakatime.com/@9f4900c0-ca57-44b5-a4dc-6545ae68a5c9?style=social)
